@@ -1,0 +1,10 @@
+C:\Users\peiryd_info\Desktop\M326\Salaires\bin\Debug\Salaires.exe.config
+C:\Users\peiryd_info\Desktop\M326\Salaires\bin\Debug\Salaires.exe
+C:\Users\peiryd_info\Desktop\M326\Salaires\bin\Debug\Salaires.pdb
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.csprojResolveAssemblyReference.cache
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.Properties.Resources.resources
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.csproj.GenerateResource.Cache
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.exe
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.pdb
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.SAddEmployeeView.resources
+C:\Users\peiryd_info\Desktop\M326\Salaires\obj\Debug\Salaires.SView.resources
